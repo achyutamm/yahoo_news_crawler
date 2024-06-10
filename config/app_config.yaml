@@ -1,0 +1,24 @@
+production:
+  database:
+    host: production-host
+    port: 5432
+    username: prod-user
+    password: prod-password
+
+
+development:
+  database:
+    host: development-host
+    port: 5432
+    username: dev-user
+    password: dev-password
+
+  url:
+    yahoo_news_url: https://news.yahoo.com/
+    
+    
+  file_path:
+    chrome_driver_path: C:\Python\rpa_challange\chromedriver\chromedriver.exe
+    log_path: C:\Python\rpa_challange\log\
+    output_path: C:\Python\rpa_challange\output\
+    image_path: C:\Python\rpa_challange\Images\
