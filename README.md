@@ -20,7 +20,6 @@ This script navigates to Yahoo News' Politics section, scrapes article details i
 - Python 3.x
 - Selenium
 - Pandas
-- Requests
 - PyYAML (for reading the configuration file)
 - ChromeDriver (matching your installed Chrome version)
 
